@@ -1,4 +1,4 @@
-name: commerce-laravel-docker
+name: uas
 
 on:
   push:
